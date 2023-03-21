@@ -36,8 +36,8 @@ body {
   .button {
     background-color: #333;
     color: #fff;
-    padding: 40px 80px;
-    border-radius: 10px;
+    padding: 30px 70px;
+    border-radius: 5px;
     display: inline-block;
     margin-top: 40px;
     text-decoration: none;
